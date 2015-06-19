@@ -1,0 +1,30 @@
+.recent_post_by_cc {
+    width: 100%;
+    margin: 15px 0;
+}
+.recent_post_by_cc ul {
+    margin: 0px;
+    padding: 0px;
+}
+.recent_post_by_cc ul li {
+    list-style: none;
+    margin-bottom: 5px;
+    padding: 5px 0 0 0;
+    border-top: 1px dotted #d6d6d6;
+}
+.recent_post_by_cc ul li:first-child {
+    border-top: 0px;
+    padding-top: 0px;
+}
+.recent_post_by_cc ul li img {
+    width: 90px;
+    height: auto;
+    margin: 0 10px 0 0;
+}
+.recent_post_by_cc ul li .cc_left {
+    float: left;
+}
+.recent_post_by_cc ul li p {
+    margin: 0;
+    line-height: 18px;
+}
