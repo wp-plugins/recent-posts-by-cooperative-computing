@@ -3,7 +3,7 @@ Contributors: Cooperative Computing
 Donate link: http://cooperativecomputing.com/
 Tags: posts, authors, categories, category, tags, tag, latest, post, author, wordpress, recent, recent post, latest posts, widget
 Requires at least: 2.8
-Tested up to: 4.2.2
+Tested up to: 4.3
 Stable tag: 1.0
 License: GPLv2 or later
 
